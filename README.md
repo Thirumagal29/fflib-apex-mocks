@@ -68,6 +68,11 @@ You can continue to use the ApexMocks generator, if you wish, but this is no lon
 
 ## Generating Mock files
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 Run the apex mocks generator from the command line.
 
 		java -jar apex-mocks-generator-4.0.0.jar
